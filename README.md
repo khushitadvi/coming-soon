@@ -8,4 +8,4 @@ npm start
 
 ```
 
-[Edit here](https://github.com/khushitadvi/coming-soon/)
+[Edit here](https://diy-pwa.dev/~/gh/khushitadvi/coming-soon)
